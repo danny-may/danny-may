@@ -1,4 +1,4 @@
-<!--### Hi there 👋
+### Hi there 👋
 
 .NET developer, typescript and node are pretty cool too.
 
