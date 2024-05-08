@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on [blargbot](https://github.com/blargbot/blargbot/tree/features/typescript)
 - 📫 How to reach me: [Danny May#0001](https://discord.com/users/135556895086870528) on discord
-- 😄 Pronouns: he/him
 
 <!--
 **danny-may/danny-may** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
